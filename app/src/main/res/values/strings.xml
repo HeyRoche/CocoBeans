@@ -1,0 +1,11 @@
+<resources>
+    //Learn to correct dash via Android Studio error that kept appearing.
+    <string name="app_name">CocoBeans</string>
+    <string name="description">"    Enjoy our fair trade coffee at our new downtown Vero Beach location. Along with our speciality coffees we also serve breakfast and lunch."</string>
+    <string name="address">"1412 21st Street \nVero Beach, FL 32960"</string>
+    <string name="phone">"772&#8211;226&#8211;5760"</string>
+    <string name="hours">"Hours: 7:30a to 2:00p \nClosed: Weekends"</string>
+    <string name="website">riococobeans.com</string>
+    <string name="getcoffee">GET COFFEE</string>
+    <string name="title">"Rio Coco Beans \n    Downtown"</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#6D4C41</item>
+        <item name="colorPrimaryDark">#FFFF</item>
+        <item name="colorAccent">#AED581</item>
+        //Learn to change button color via Stack Overflow post.
+        <item name="colorButtonNormal">#6D4C41</item>
+    </style>
+
+</resources>
