@@ -6,7 +6,7 @@
         <item name="colorPrimary">#6D4C41</item>
         <item name="colorPrimaryDark">#FFFF</item>
         <item name="colorAccent">#AED581</item>
-        //Learn to change button color via Stack Overflow post.
+        //Learned to change button color via Stack Overflow post. https://stackoverflow.com/questions/1521640/standard-android-button-with-a-different-color -- Accessed on 5/6/2018
         <item name="colorButtonNormal">#6D4C41</item>
     </style>
 
